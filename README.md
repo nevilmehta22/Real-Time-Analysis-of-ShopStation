@@ -1,3 +1,6 @@
 # Real-Time-Analysis-of-ShopStation
 
 In this project, I have tried to depict Real-Time Analysis w.r.t Google Forms and Google Sheets. Web Automation was implemented via Selenium in Python environment to depict Customer Survey Responses. Analysis was made using Google Sheets and a Dashboard was created to showcase the insights generated.
+When you fill the Google Form given at this link: [Form](https://rb.gy/2obphp) , you can track the changes easily which are displayed on the dashboard given here: [Dashboard](https://rb.gy/hnhar3)
+
+
